@@ -4,11 +4,18 @@
         <description><![CDATA[New Years Eve 2016]]></description>
         <link>https://thegrid.ai/musings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 06:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 06:52:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[More AI insight]]></title>
+            <description><![CDATA[<article><h1>More AI insight</h1><p>13 AI researchers reveal the amazing facts that blow their minds - Business Insider</p><img src="http://static4.businessinsider.com/image/56cccdeedd0895de048b468d-3248-2436/rtr3pnj5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/musings/more-ai-insight/index.html</link>
+            <guid isPermaLink="false">a79b8b13-abfb-4e0d-a7d6-c18cd61097a4</guid>
+            <pubDate>Thu, 25 Feb 2016 06:51:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jobs going going gone]]></title>
-            <description><![CDATA[<article><h1>Jobs going going gone</h1><p>There is no such thing as a job for life any more - The Sydney Morning Herald</p><img src="http://www.brisbanetimes.com.au/content/dam/images/g/n/1/b/w/2/image.related.articleLeadwide.620x349.gn141j.png/1456264749144.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Jobs going going gone</h1><p>There is no such thing as a job for life any more - The Sydney Morning Herald</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0a0e8c4816bd932e12ccfa4d728eb6521f7e724.jpg"></article>]]></description>
             <link>https://thegrid.ai/musings/jobs-going-going-gone/index.html</link>
             <guid isPermaLink="false">c9d0af4a-cd4b-48e9-bc60-a93d5a25b61b</guid>
             <pubDate>Thu, 25 Feb 2016 06:51:22 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/musings/new-take-on-ai/index.html</link>
             <guid isPermaLink="false">90bf654c-c00e-4033-b957-b82ecf55875b</guid>
             <pubDate>Tue, 23 Feb 2016 03:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interesting think the Big Short]]></title>
-            <description><![CDATA[<article><h1>Interesting think the Big Short</h1><p>A SEC filing reveals some uncomfortable truths about how stock trading works on Wall Street - Business Insider</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3840dbe9c0f0c8f0bf7f7e112add1008ffeef1c2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/musings/interesting-think-the-big-short/index.html</link>
-            <guid isPermaLink="false">1e4b72f4-00a2-4b93-99e2-3c29e149382c</guid>
-            <pubDate>Mon, 22 Feb 2016 00:42:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
