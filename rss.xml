@@ -4,8 +4,15 @@
         <description><![CDATA[New Years Eve 2016]]></description>
         <link>https://thegrid.ai/musings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 06:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 06:52:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jobs going going gone]]></title>
+            <description><![CDATA[<article><h1>Jobs going going gone</h1><p>There is no such thing as a job for life any more - The Sydney Morning Herald</p><img src="http://www.brisbanetimes.com.au/content/dam/images/g/n/1/b/w/2/image.related.articleLeadwide.620x349.gn141j.png/1456264749144.jpg"></article>]]></description>
+            <link>https://thegrid.ai/musings/jobs-going-going-gone/index.html</link>
+            <guid isPermaLink="false">c9d0af4a-cd4b-48e9-bc60-a93d5a25b61b</guid>
+            <pubDate>Thu, 25 Feb 2016 06:51:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smart WIFI]]></title>
             <description><![CDATA[<article><h1>Smart WIFI</h1><p>Review: The End of Bad Home Wi-Fi - WSJ - www.wsj.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440159e241dec33048c3bbae840cd7c9c36ee0d0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/musings/interesting-think-the-big-short/index.html</link>
             <guid isPermaLink="false">1e4b72f4-00a2-4b93-99e2-3c29e149382c</guid>
             <pubDate>Mon, 22 Feb 2016 00:42:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Start of 2016 with a bang]]></title>
-            <description><![CDATA[<article><h1>Start of 2016 with a bang</h1><p>Spectacular Sydney New Years Eve fireworks from the Sydney Harbour Bridge, from our Pyrmont apartment</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b362b239dfa9602d16fb09f66f9e0bd551e5eedb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/musings/da4ca64c-554c-40cc-aee6-0efc3fd83d14/index.html</link>
-            <guid isPermaLink="false">da4ca64c-554c-40cc-aee6-0efc3fd83d14</guid>
-            <pubDate>Sun, 21 Feb 2016 02:46:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
