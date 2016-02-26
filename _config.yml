@@ -1,29 +1,41 @@
-name: Musings
-favicon: null
-layout_spectrum: 0.5861679464578629
-typography_spectrum: 0.04290805128403008
 title: New Years Eve 2016
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8283589063212276
+  brandStrength: 0.2161130597814918
+  rhythmicContrast: 0.787680960027501
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.21611305978149176
   lightness: 0.9941900398116559
-  saturation: 0.8283589063212276
-  rhythmicContrast: 0.787680960027501
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Musings
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.04290805128403008
+layout_spectrum: 0.7395274
