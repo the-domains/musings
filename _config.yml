@@ -1,5 +1,8 @@
-title: New Years Eve 2016
-purpose: []
+typography_spectrum: 0.04290805128403008
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+layout_spectrum: 0.7395274
+title: New Years Eve 2016
+purpose: []
 color:
-  saturation: 0.8712686
+  saturation: 0.8283589063212276
   brandStrength: 0.2161130597814918
-  lightness: 0.9365672
+  rhythmicContrast: 0.787680960027501
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.6777052
+  lightness: 0.9941900398116559
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Musings
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.329291
-layout_spectrum: 0.8521455
