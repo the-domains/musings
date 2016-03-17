@@ -4,15 +4,8 @@
         <description><![CDATA[New Years Eve 2016]]></description>
         <link>https://thegrid.ai/musings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 02:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 02:34:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musings/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[AI Ethics]]></title>
-            <description><![CDATA[<article><h1>AI Ethics</h1><p>Let us all raise a glass to AlphaGo and mark another big moment in the advance of artificial intelligence and then perhaps start to worry. AlphaGo, Google DeepMind's game of Go-playing AI just bested the best Go-playing human currently alive, the renowned Lee Sedol. This was not supposed to happen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2227349a23e5360685a1bec3ee5958325587dc8d.jpg"></article>]]></description>
-            <link>https://apple.news/Agk6XLQEZRguGBz_7UvFX7Q</link>
-            <guid isPermaLink="false">030c6b08-f338-4ca8-83ad-6176ea8cad9c</guid>
-            <pubDate>Thu, 17 Mar 2016 02:33:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Another battle over encryption ]]></title>
             <description><![CDATA[<article><h1>Another battle over encryption </h1><p>WhatsApp is latest tech firm fighting Justice Department over encryption system that ma... - Daily Mail</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3b8e6b94e388b82ed1043fec42aacc0c328da4f.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/musings/more-ai-insight/index.html</link>
             <guid isPermaLink="false">a79b8b13-abfb-4e0d-a7d6-c18cd61097a4</guid>
             <pubDate>Thu, 25 Feb 2016 06:51:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jobs going going gone]]></title>
+            <description><![CDATA[<article><h1>Jobs going going gone</h1><p>There is no such thing as a job for life any more - The Sydney Morning Herald</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0a0e8c4816bd932e12ccfa4d728eb6521f7e724.jpg"></article>]]></description>
+            <link>https://thegrid.ai/musings/jobs-going-going-gone/index.html</link>
+            <guid isPermaLink="false">c9d0af4a-cd4b-48e9-bc60-a93d5a25b61b</guid>
+            <pubDate>Thu, 25 Feb 2016 06:51:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
