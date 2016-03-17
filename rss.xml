@@ -7,6 +7,13 @@
         <lastBuildDate>Thu, 17 Mar 2016 02:34:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>400M people will rely on robotic car sharing by 2030 - Computerworld</p>]]></description>
+            <link>https://thegrid.ai/musings/400m-people-will-rely-on-robotic-car-sharing-by-2030-compu/index.html</link>
+            <guid isPermaLink="false">a3e5621c-aa8d-4b34-bf64-d92a386c8da4</guid>
+            <pubDate>Thu, 17 Mar 2016 02:33:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Deep Learning an explanation ]]></title>
             <description><![CDATA[<article><h1>Deep Learning an explanation </h1><p>Getting real with Deep Learning http://flip.it/gJ.FW</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63e43bffa96ce0044e5e1bfc50dd1fba920779c8.jpg"></article>]]></description>
             <link>https://thegrid.ai/musings/deep-learning-an-explanation/index.html</link>
@@ -68,13 +75,6 @@
             <link>http://singularityhub.com/2016/02/15/where-artificial-intelligence-is-now-and-whats-just-around-the-corner/</link>
             <guid isPermaLink="false">da220aab-ef65-42b9-aaa8-97d43b18d5c2</guid>
             <pubDate>Tue, 23 Feb 2016 03:06:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mindfulness and how it works ]]></title>
-            <description><![CDATA[<article><h1>Mindfulness and how it works </h1><p>There's a surprisingly simple way meditation appears to change the brain http://flip.it/5y.jW</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/936c321a67a3f6c96bb057b729946e02ea258192.jpg"></article>]]></description>
-            <link>https://thegrid.ai/musings/mindfulness-and-how-it-works/index.html</link>
-            <guid isPermaLink="false">3865e22a-8eaf-4f48-b0fa-e6c4646fd5a1</guid>
-            <pubDate>Tue, 23 Feb 2016 03:06:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
