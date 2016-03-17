@@ -4,11 +4,18 @@
         <description><![CDATA[New Years Eve 2016]]></description>
         <link>https://thegrid.ai/musings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 06:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 02:34:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Deep Learning an explanation ]]></title>
+            <description><![CDATA[<article><h1>Deep Learning an explanation </h1><p>Getting real with Deep Learning http://flip.it/gJ.FW</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63e43bffa96ce0044e5e1bfc50dd1fba920779c8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/musings/deep-learning-an-explanation/index.html</link>
+            <guid isPermaLink="false">d7177b16-ea1a-498e-aab8-5cb2427ad22c</guid>
+            <pubDate>Thu, 17 Mar 2016 02:33:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[More AI insight]]></title>
-            <description><![CDATA[<article><h1>More AI insight</h1><p>13 AI researchers reveal the amazing facts that blow their minds - Business Insider</p><img src="http://static4.businessinsider.com/image/56cccdeedd0895de048b468d-3248-2436/rtr3pnj5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>More AI insight</h1><p>13 AI researchers reveal the amazing facts that blow their minds - Business Insider</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/070bc18598a854a365dad67ade8117545aa4e421.jpg"></article>]]></description>
             <link>https://thegrid.ai/musings/more-ai-insight/index.html</link>
             <guid isPermaLink="false">a79b8b13-abfb-4e0d-a7d6-c18cd61097a4</guid>
             <pubDate>Thu, 25 Feb 2016 06:51:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/musings/mindfulness-and-how-it-works/index.html</link>
             <guid isPermaLink="false">3865e22a-8eaf-4f48-b0fa-e6c4646fd5a1</guid>
             <pubDate>Tue, 23 Feb 2016 03:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New take on AI]]></title>
-            <description><![CDATA[<article><h1>New take on AI</h1><p>Austin’s Lucid Aims to Make Artificial Intelligence More Human - Xconomy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45ea2b4873e4857b0e69ef856444a5401c2c7a21.jpg"></article>]]></description>
-            <link>https://thegrid.ai/musings/new-take-on-ai/index.html</link>
-            <guid isPermaLink="false">90bf654c-c00e-4033-b957-b82ecf55875b</guid>
-            <pubDate>Tue, 23 Feb 2016 03:05:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
