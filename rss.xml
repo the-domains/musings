@@ -4,8 +4,22 @@
         <description><![CDATA[New Years Eve 2016]]></description>
         <link>https://thegrid.ai/musings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 02:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 02:34:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here come the overlords ]]></title>
+            <description><![CDATA[<article><h1>Here come the overlords </h1><p>The next time someone tells you robots are going to destroy our jobs, show them this http://flip.it/73-ER</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35052ec3432f9b9b95949a51539ef8270d85f817.jpg"></article>]]></description>
+            <link>https://thegrid.ai/musings/here-come-the-overlords/index.html</link>
+            <guid isPermaLink="false">6f1860d7-3ea5-4614-9fd5-ffa5f08ecced</guid>
+            <pubDate>Thu, 17 Mar 2016 02:33:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learning robot arms]]></title>
+            <description><![CDATA[<article><h1>Learning robot arms</h1><p>Google’s robotic arms are teaching themselves to do things and it’s terrifying http://flip.it/gMpFp</p></article>]]></description>
+            <link>https://thegrid.ai/musings/learning-robot-arms/index.html</link>
+            <guid isPermaLink="false">5361ddf1-3e10-4e1f-9eb9-f22203de7eb7</guid>
+            <pubDate>Thu, 17 Mar 2016 02:33:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New MIT journal]]></title>
             <description><![CDATA[<article><h1>New MIT journal</h1><p>MIT Media Lab's Journal of Design and Science Is a Radical New Kind of Publication - WIRED</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6553c0ffe58dfef73ac18f204b27e6eab6e14367.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Future of Work?</h1><p>Welcome To The Post-Work Economy http://flip.it/kuTMW</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c717d37d22013c62ba77a787e49ddb1737c26b35.jpg"></article>]]></description>
             <link>http://flip.it/kuTMW</link>
             <guid isPermaLink="false">7d10d4fd-6323-4444-9bc8-115b89bd9854</guid>
-            <pubDate>Thu, 17 Mar 2016 02:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI flying away from UK]]></title>
-            <description><![CDATA[<article><h1>AI flying away from UK</h1><p>Why the US Is Buying Up So Many UK Artificial Intelligence Companies | Motherboard http://flip.it/B3N4G</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/964ca6d8c256fe24761aa92ea6adb793327f9efd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/musings/ai-flying-away-from-uk/index.html</link>
-            <guid isPermaLink="false">f05d3566-dfde-489c-9cc8-bd35d2222d06</guid>
-            <pubDate>Thu, 17 Mar 2016 02:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>400M people will rely on robotic car sharing by 2030 - Computerworld</p>]]></description>
-            <link>https://thegrid.ai/musings/400m-people-will-rely-on-robotic-car-sharing-by-2030-compu/index.html</link>
-            <guid isPermaLink="false">a3e5621c-aa8d-4b34-bf64-d92a386c8da4</guid>
             <pubDate>Thu, 17 Mar 2016 02:33:24 GMT</pubDate>
         </item>
     </channel>
