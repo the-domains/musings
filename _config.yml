@@ -1,5 +1,8 @@
-title: New Years Eve 2016
-purpose: []
+name: Musings
+favicon: null
+layout_spectrum: 0.8903918
+typography_spectrum: 0.5778918
+title: MUSINGS for 2016
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8847948
-  brandStrength: 0.2161130597814918
-  lightness: 0.6329291
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  brandStrength: 0.2161130597814918
+  lightness: 0.6329291
+  saturation: 0.8847948
   rhythmicContrast: 0.7602612
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Musings
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5778918
-layout_spectrum: 0.8903918
+purpose: []
