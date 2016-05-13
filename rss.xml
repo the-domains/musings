@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[New Years Eve 2016]]></title>
-        <description><![CDATA[New Years Eve 2016]]></description>
+        <title><![CDATA[MUSINGS for 2016]]></title>
+        <description><![CDATA[MUSINGS for 2016]]></description>
         <link>https://thegrid.ai/musings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 20:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 04:52:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Science vs beliefs]]></title>
+            <description><![CDATA[<article><h1>Science vs beliefs</h1><p>Why Do Many Reasonable People Doubt Science? http://flip.it/Mr0R3</p></article>]]></description>
+            <link>https://thegrid.ai/musings/science-vs-beliefs/index.html</link>
+            <guid isPermaLink="false">713c13fa-b91d-44e1-9c79-e776e1304c9d</guid>
+            <pubDate>Fri, 13 May 2016 04:52:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jobs or robots ]]></title>
             <description><![CDATA[<article><h1>Jobs or robots </h1><p>Welcome to the robot-based workforce: will your job become automated too? - the guardian</p></article>]]></description>
@@ -35,15 +42,15 @@
             <pubDate>Thu, 17 Mar 2016 02:33:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New MIT journal]]></title>
-            <description><![CDATA[<article><h1>New MIT journal</h1><p>MIT Media Lab's Journal of Design and Science Is a Radical New Kind of Publication - WIRED</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6553c0ffe58dfef73ac18f204b27e6eab6e14367.jpg"></article>]]></description>
+            <title><![CDATA[MIT Media Lab's Journal of Design and Science Is a Radical New Kind of Publication]]></title>
+            <description><![CDATA[<article><h1>MIT Media Lab's Journal of Design and Science Is a Radical New Kind of Publication</h1><p>MIT Media Lab's Journal of Design and Science Is a Radical New Kind of Publication - WIRED</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6553c0ffe58dfef73ac18f204b27e6eab6e14367.jpg"></article>]]></description>
             <link>https://thegrid.ai/musings/new-mit-journal/index.html</link>
             <guid isPermaLink="false">98b6c00c-35d0-4b7c-be1a-19355b9e3846</guid>
             <pubDate>Thu, 17 Mar 2016 02:33:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hardware capex to open]]></title>
-            <description><![CDATA[<article><h1>Hardware capex to open</h1><p>Amazon's cloud boss told us something that should terrify a $140 billion industry http://flip.it/99w_Z</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4087de5c12fcf3ae01868a0a76a8785a6320365b.jpg"></article>]]></description>
+            <title><![CDATA[Amazon's cloud boss told us something that should terrify a $140 billion industry]]></title>
+            <description><![CDATA[<article><h1>Amazon's cloud boss told us something that should terrify a $140 billion industry</h1><p>Amazon's cloud boss told us something that should terrify a $140 billion industry http://flip.it/99w_Z</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4087de5c12fcf3ae01868a0a76a8785a6320365b.jpg"></article>]]></description>
             <link>http://flip.it/99w_Z</link>
             <guid isPermaLink="false">d4fbd29b-a341-4fbe-945f-2376fdf8a3b0</guid>
             <pubDate>Thu, 17 Mar 2016 02:33:25 GMT</pubDate>
@@ -56,13 +63,6 @@
             <pubDate>Thu, 17 Mar 2016 02:33:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Another battle over encryption ]]></title>
-            <description><![CDATA[<article><h1>Another battle over encryption </h1><p>WhatsApp is latest tech firm fighting Justice Department over encryption system that ma... - Daily Mail</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3b8e6b94e388b82ed1043fec42aacc0c328da4f.jpg"></article>]]></description>
-            <link>https://apple.news/AmJgpRZMtT0-Ga1btfQ9Ktw</link>
-            <guid isPermaLink="false">3c8e3388-c4dd-4eff-8aeb-f6a2e4537860</guid>
-            <pubDate>Thu, 17 Mar 2016 02:33:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Excellent Blockchain Explanation ]]></title>
             <description><![CDATA[<article><h1>Excellent Blockchain Explanation </h1><p>Wall Street is obsessed with this technology that no one quite understands — here's the best explanation we've seen - Business Insider</p></article>]]></description>
             <link>https://thegrid.ai/musings/excellent-blockchain-explanation/index.html</link>
@@ -70,10 +70,10 @@
             <pubDate>Thu, 17 Mar 2016 02:33:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Buffet on investing in businesses that are good enough even if run by " your idiot" nephew]]></title>
-            <description><![CDATA[<article><h1>Buffet on investing in businesses that are good enough even if run by " your idiot" nephew</h1><p>Warren Buffett explains why a good business is one 'your idiot nephew' could run - Business Insider</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef6f62dce5d152b0243054d1343219ae0095065c.jpg"></article>]]></description>
-            <link>https://apple.news/At2PPTdTYT9eErIFvtx1bLg</link>
-            <guid isPermaLink="false">ca8ac278-c8b8-43d4-bfd8-730fd9c445c0</guid>
+            <title><![CDATA[WhatsApp is latest tech firm fighting Justice Department]]></title>
+            <description><![CDATA[<article><h1>WhatsApp is latest tech firm fighting Justice Department</h1><p>WhatsApp is latest tech firm fighting Justice Department over encryption system that ma... - Daily Mail</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3b8e6b94e388b82ed1043fec42aacc0c328da4f.jpg"></article>]]></description>
+            <link>https://apple.news/AmJgpRZMtT0-Ga1btfQ9Ktw</link>
+            <guid isPermaLink="false">3c8e3388-c4dd-4eff-8aeb-f6a2e4537860</guid>
             <pubDate>Thu, 17 Mar 2016 02:33:25 GMT</pubDate>
         </item>
     </channel>
